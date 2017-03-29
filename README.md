@@ -2,7 +2,7 @@
 
 ## Rationale
 
-A simple analysis to visualize my favourite fruit color.
+A simple analysis to discover my favourite fruit color.
 
 ## Data
 
