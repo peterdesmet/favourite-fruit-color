@@ -1,8 +1,8 @@
-# What is my favourite fruit color?
+# What is my favourite fruit colour?
 
 ## Rationale
 
-A simple analysis to visualize my favourite fruit color.
+A simple analysis to visualize my favourite fruit colour.
 
 ## Data
 
