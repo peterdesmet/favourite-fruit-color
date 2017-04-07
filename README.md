@@ -2,7 +2,9 @@
 
 ## Rationale
 
-A simple analysis to discover my favourite fruit colour.
+A simple analysis to discover my favourite fruit colour. 
+
+As you're working with ordinal data, make sure to use proper statistical methods!
 
 ## Data
 
